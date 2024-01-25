@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "date-fns": "^2.30.0",
+    "got": "^11.7.0",
+    "he": "^1.2.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "xlsx": "^0.18.5"
+  }
+}

@@ -12,7 +12,9 @@ Installation:
    npm install
 
 3. Run the Script:
-   node script.js
+cd utils
+   node excelToCsv.js
+   node csvToJson.js
 
 Usage:
 

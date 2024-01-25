@@ -1,1 +1,18 @@
+# Node.js
 node_modules/
+
+# Logs y archivos temporales
+logs/
+*.log
+npm-debug.log*
+
+# Construcciones de compiladores e IDE
+dist/
+dist-esm/
+.vscode/
+
+# Dependencias específicas del desarrollador (por ejemplo, npm debug logs)
+*.yml
+*.json
+*.lock
+*.sqlite
